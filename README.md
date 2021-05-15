@@ -115,9 +115,9 @@ The following screenshots demonstrate the application functionality:
 
 
 
+# License
 
 
-
-
+[MIT LICENSE](/Users/ryanevans/LICENSE.txt)
 
 
